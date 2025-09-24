@@ -1,0 +1,12 @@
+# Ignore environment variables file
+.env
+
+# Ignore data files
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Google API token
+token.pickle

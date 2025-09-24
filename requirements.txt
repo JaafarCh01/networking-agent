@@ -1,0 +1,12 @@
+pandas
+requests
+python-dotenv
+psycopg2-binary
+openai
+streamlit
+yagmail
+playwright
+boto3
+sentry-sdk
+google-api-python-client
+google-auth-oauthlib
